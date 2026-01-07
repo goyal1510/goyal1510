@@ -2,6 +2,8 @@
 
 ## Full Stack Developer | Associate Product Engineer
 
+<!-- Test PR: This is a test change to verify PR workflow -->
+
 > *I create beautiful, functional, and user-centered digital experiences. Passionate about clean code, modern technologies, and solving complex problems.*
 
 📍 **Location:** Hyderabad, India  
