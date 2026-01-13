@@ -2,30 +2,17 @@
 
 ## Full Stack Developer | Associate Product Engineer
 
-<!-- Test PR: This is a test change to verify PR workflow -->
-
-> *I create beautiful, functional, and user-centered digital experiences. Passionate about clean code, modern technologies, and solving complex problems.*
-
-📍 **Location:** Hyderabad, India  
-💼 **Current Role:** Associate Product Engineer at Neuraoak Technologies Private Limited  
-🌐 **Portfolio:** [jayantgoyal.com](https://www.jayantgoyal.com)  
-📧 **Email:** goyal151002@gmail.com  
-📱 **Phone:** +91 94134 95328
-
 ---
 
 ## 🚀 About Me
 
 I love pairing fast iteration with thoughtful craft—shipping early, measuring, and polishing with every release. With 1+ years of experience in full-stack development, I specialize in building scalable web applications using modern technologies.
 
-### 🎯 Key Highlights
-
-- ✨ Full Stack Web Development
-- ⚛️ React.js & Next.js Development
-- 📘 TypeScript & JavaScript
-- 🔌 REST API Design & Implementation
-- 🗄️ Database Management (PostgreSQL, Supabase)
-- 🎨 UI/UX Design & User Experience
+📍 **Location:** Hyderabad, India  
+💼 **Current Role:** Associate Product Engineer @ Neuraoak Technologies Private Limited  
+🌐 **Website:** [jayantgoyal.com](https://www.jayantgoyal.com)  
+📧 **Email:** goyal151002@gmail.com  
+📱 **Phone:** +91 94134 95328
 
 ---
 
@@ -54,40 +41,6 @@ I love pairing fast iteration with thoughtful craft—shipping early, measuring,
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-80%25-ed8b00?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-40%25-3776ab?style=flat-square)
-
----
-
-## 🚀 Featured Projects
-
-### 💰 Currency Calculator
-A personal calculator to total cash denomination, store multiple calculations per date, and add optional notes. Integrated Supabase for backend storage with full CRUD functionality.
-
-**Tech Stack:** Next.js, Supabase, CSS, CRUD Operations  
-🔗 [Live Demo](https://ccal.jayantgoyal.com) | 💻 [GitHub](https://github.com/goyal1510/jayantgoyal/tree/main/apps/currency-calculator)
-
-### 🧮 Custom Drag & Drop Calculator
-Built a drag-and-drop calculator using React and Zustand. Features dark mode, backspace, clear all, and duplicate prevention.
-
-**Tech Stack:** Next.js, Tailwind CSS, Drag & Drop  
-🔗 [Live Demo](https://customcal.jayantgoyal.com) | 💻 [GitHub](https://github.com/goyal1510/jayantgoyal/tree/main/apps/custom-drag-drop-calculator)
-
-### 🛒 E-commerce Application
-Full-featured e-commerce platform with product browsing, cart, and transactions. Responsive UI using React, React Router, and Redux.
-
-**Tech Stack:** React, Redux, React Router, API Integration  
-🔗 [Live Demo](https://ecommerce.jayantgoyal.com/) | 💻 [GitHub](https://github.com/goyal1510/jayant-ecommerce-website)
-
-### 🎮 Game Hub
-Interactive gaming platform featuring Rock Paper Scissors, Dare You, and Tic Tac Toe games.
-
-**Tech Stack:** Next.js, Interactive Games  
-🔗 [Live Demo](https://ghub.jayantgoyal.com) | 💻 [GitHub](https://github.com/goyal1510/jayantgoyal/tree/main/apps/game-hub)
-
-### 🌤️ Weather App
-Weather application with city-based search and geolocation-based weather retrieval using OpenWeather API.
-
-**Tech Stack:** Next.js, TypeScript, OpenWeather API, Tailwind CSS, Geolocation  
-🔗 [Live Demo](https://weather.jayantgoyal.com) | 💻 [GitHub](https://github.com/goyal1510/jayantgoyal/tree/main/apps/weather)
 
 ---
 
