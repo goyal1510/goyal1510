@@ -1,71 +1,61 @@
-# 👋 Hi, I'm Jayant
+# Hi, I'm Jayant Goyal 👋
 
-## Full Stack Developer | Associate Product Engineer
+### Full-Stack Software Engineer
 
----
+I build web applications that make complex operational work easier, from interfaces and reporting to integrations and automation. I work across React, Next.js, TypeScript, and PostgreSQL, with a focus on dependable workflows and useful products.
 
-## 🚀 About Me
+Based in **Hyderabad, India** · **Associate Product Engineer at Neuraoak Technologies Private Limited**
 
-I love pairing fast iteration with thoughtful craft—shipping early, measuring, and polishing with every release. With 1+ years of experience in full-stack development, I specialize in building scalable web applications using modern technologies.
+Open to **full-time roles, remote work, and relocation**.
 
-📍 **Location:** Hyderabad, India  
-💼 **Current Role:** Associate Product Engineer @ Neuraoak Technologies Private Limited  
-🌐 **Website:** [jayantgoyal.com](https://www.jayantgoyal.com)  
-📧 **Email:** goyal151002@gmail.com  
-📱 **Phone:** +91 94134 95328
+[Portfolio](https://jayantgoyal.com) · [Résumé](https://jayantgoyal.com/resume) · [LinkedIn](https://www.linkedin.com/in/jayant-29714220b/) · [Email](mailto:goyal151002@gmail.com)
 
----
+## What I work on
 
-## 💻 Tech Stack
+Neuraoak Technologies Private Limited and **CodeSync Health, Inc.** (US) are the same business. I contribute workflows, dashboards, reporting, integrations, and shared components across **CodeSync Capture and CodeSync RCM**, supporting healthcare revenue cycle management. My work includes Insurance Accounts Receivable (AR) queues, payer integrations, tenant isolation, and charge-posting automation.
 
-### Frontend Development
-![HTML](https://img.shields.io/badge/HTML-95%25-orange?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-92%25-blue?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-92%25-38bdf8?style=flat-square)
-![React](https://img.shields.io/badge/React-90%25-61dafb?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-88%25-f7df1e?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178c6?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-85%25-000000?style=flat-square)
-![Redux](https://img.shields.io/badge/Redux-80%25-764abc?style=flat-square)
+Selected results from my work on [CodeSync RCM and CodeSync Capture](https://jayantgoyal.com/work/codesync):
 
-### Backend Development
-![Supabase](https://img.shields.io/badge/Supabase-95%25-3ecf8e?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-90%25-000000?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-78%25-336791?style=flat-square)
+- Reduced Insurance AR page-load time from **approximately 15 seconds to 2 seconds** through selective data fetching, caching, and queue optimization.
+- Reduced manual claim checks by **70%** through payer API integrations and ERA/EOB extraction.
+- Consolidated shared components, reducing feature-development time by **30%**.
+- Built charge-posting automation integrating with Tebra through APIs and UI automation.
 
-### Tools & Technologies
-![Vercel](https://img.shields.io/badge/Vercel-95%25-000000?style=flat-square)
-![Git](https://img.shields.io/badge/Git-90%25-f05032?style=flat-square)
+## Products I'm building
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-80%25-ed8b00?style=flat-square)
-![Python](https://img.shields.io/badge/Python-40%25-3776ab?style=flat-square)
+My personal projects live in one monorepo, with four independently deployed web applications:
 
----
+| Product | What it does |
+| --- | --- |
+| [Portfolio](https://jayantgoyal.com) | Professional work, case studies, technical writing, and résumé delivery, backed by a CMS. |
+| [Studio](https://studio.jayantgoyal.com) | Developer tools, games, private files, and personal workspaces with authentication and resource-level access controls. |
+| Admin | A private CMS for portfolio content, publishing, and access management, with server-enforced authorization. |
+| [Auth](https://auth.jayantgoyal.com) | Shared sign-in, account recovery, MFA, profile, and connected-provider management. |
 
-## 🏆 Certificates
+The platform uses **Next.js 16, React 19, TypeScript, Tailwind CSS v4, Supabase, and PostgreSQL**, with shared contracts and tooling managed through **pnpm and Turborepo**.
 
-- **HackerRank** - Basic & Intermediate Programming Assessments
-- **HighRadius** - Internship Appreciation & Completion Certificates
-- **Internshalla** - Full Stack Training, HTML & CSS, JavaScript, Git & GitHub, DSA JavaScript (I & II), React, Node.js & MongoDB
+[Explore the project case studies →](https://jayantgoyal.com/work)
 
----
+## Engineering toolkit
 
-## 🤝 Let's Connect
+| Area | Technologies and focus |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Radix UI, Framer Motion, Redux |
+| Backend & data | Node.js, REST APIs, PostgreSQL, SQL, Supabase, realtime data, object storage |
+| Authentication & access | Supabase Auth, SSR sessions, OAuth, MFA, row-level security, tenant isolation |
+| Delivery | Git, GitHub, Vercel, Cloudflare, pnpm, Turborepo |
+| Product engineering | Workflow design, shared components, performance optimization, reporting, integrations, automation |
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jayantgoyal.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goyal1510)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayant-29714220b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goyal_1510/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyal151002@gmail.com)
+## Background
 
----
+- **Associate Product Engineer · Neuraoak Technologies Private Limited** — March 2025–present.
+- **Independent Full-Stack Developer · Personal projects and training** — December 2023–March 2025. Built personal applications and strengthened full-stack skills while awaiting onboarding for a campus offer.
+- **Software Development Intern · HighRadius** — May–November 2023. Completed an engineering training program and built full-stack modules using React, Java, REST APIs, and relational databases.
+- **B.Tech in Computer Science & Engineering · KIIT** — 2024, **CGPA: 8.98/10**.
+- **Full Stack Development certification · Internshala** — issued May 2025; an eight-month program covering React, Node.js, Express, MongoDB, and data structures.
 
-<div align="center">
+## Writing & contact
 
-**Thanks for visiting! Feel free to reach out if you'd like to collaborate or just say hi! 👋**
+I write about product engineering, system design, and lessons from building and shipping software on my [blog](https://jayantgoyal.com/blog).
 
-⭐️ *If you like my work, consider giving a star to my repositories!*
-
-</div>
+For roles or collaboration, reach me at **[goyal151002@gmail.com](mailto:goyal151002@gmail.com)** or through my [contact page](https://jayantgoyal.com/contact).
